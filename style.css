@@ -1,0 +1,197 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    
+margin: 0;
+padding: 0;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+}
+
+#button_{
+font-size: 16px;
+
+
+}
+#sign_{
+
+    width: 120px;
+    height: 40px;
+    background-color: black;
+    border: none;
+    color:  white;
+}
+#log{
+
+    background-color: white;
+    border: none;
+}
+#log:hover {
+    color: #fc8112;
+
+}
+
+#input{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #fc8112;
+    width: 620px;
+    height: 60px;
+
+}
+input{
+    font-size: 16px;
+    width: 400px;
+    height: 50px;
+    border: none;
+}
+#find_f{
+    width: 90;
+    height: 50px;
+    border: none;
+    background-color: #fc8112;
+    color: aliceblue;
+
+
+}
+input:focus{
+    outline: none;
+
+}
+#log{
+    height: 40px;
+    width: 90;
+    border: none;
+}
+#find_f{
+    width: 110px;
+    height: 60px;
+    border: none;
+
+}
+
+.black_, .grey{
+text-decoration: none;
+font-weight: bold;
+
+}
+.black_{
+  
+    color: grey;
+}
+
+.grey_{
+    color: rgb(175, 175, 175);
+}
+
+#login_img{
+    background-image: url(/Lunch1_vlksgq.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+#login_comp{
+    display: flex;
+    justify-content: space-between;
+    height: 400px;
+}
+
+#login_{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 40px 108px;
+    height: 429px;
+}
+
+#stack {
+    margin-top: 60px;
+    /* border: 2px solid red; */
+    display: flex;
+    height: 50vh;
+    width: 100%;
+    background-color:black;
+    justify-content: space-around;
+}
+.cards_ img{
+
+    width: 112px;
+    height: 150px;
+}
+.cards_{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+.cards_ span{
+    text-align: center;
+    width: 200px;
+    font-size: 14px;
+}
+#rest{
+    display: flex; 
+    flex-direction: row;
+}
+#cont_{
+    margin: 80px 80px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 296px;
+
+}
+#img_stack {
+    display: flex;
+    /* flex-direction: row; */
+    width: 60%;
+}
+#img_stack img {
+    height: 490px;
+    width: 354px;
+}
+
+#fot{
+    display: flex;
+    background-color: black;
+    height: 600px;
+    
+}
+.text_ {
+    margin: 100px 25px 100px 100px;
+    width: 25%;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+#app{
+    border:2px solid white;
+}
+#gog  {
+    border:2px solid white;
+
+}
+li{
+    list-style: none;
+    padding: 10px;
+}
+ul{
+    margin: 10px -45px 10px ;
+}
+hr{
+    color: white;
+}
+#gog{
+    margin-top: 20px;
+}
+
+
+
+
